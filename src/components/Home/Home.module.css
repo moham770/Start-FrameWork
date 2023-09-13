@@ -1,0 +1,15 @@
+.mainHeight{
+    background-color: #1abc9c;
+    display: flex;
+    justify-content: center;
+    align-items: center !important;
+    height: 90vh;
+  
+}
+
+.imgBg{
+    width: 250px ;
+    border-radius: 50%;
+    padding: 20px 0;
+    
+}

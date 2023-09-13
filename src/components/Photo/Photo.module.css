@@ -1,0 +1,14 @@
+.photo {
+    cursor: pointer;
+}
+
+.overLay{
+    background-color: #1ab596;
+    transition: 0.4s;
+}
+.photo:hover .overLay {
+opacity: 1 !important;
+
+}
+
+

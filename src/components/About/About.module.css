@@ -1,0 +1,12 @@
+
+
+.mainHeight{
+   height: 90vh;
+   background-color: #1abc9c;
+}
+.item{
+    padding: 5px 40px;
+    color: #fff;
+    margin: 10px 0;
+}
+
